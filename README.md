@@ -121,7 +121,8 @@ The project is designed for the `EchoNet-Dynamic` dataset. The `base_dir` must c
 
 ## Dataset
 
-This project uses the `EchoNet-Dynamic` dataset. You can download it from the official repository: [EchoNet-Dynamic GitHub](https://github.com/echonet/dynamic). Place the dataset inside the `data` folder.
+This project uses the `EchoNet-Dynamic` dataset. You can download it from the official repository: [EchoNet-Dynamic GitHub](https://github.com/echonet/dynamic). Place the dataset inside the `data` folder. The data folder is accessed from the web address of the web disk: files shared through the web disk: data.zip
+Link: https://pan.baidu.com/s/1zaA5LEkOFm3tjMDKXQAv7w?pwd=momo Extraction code: momo
 
 Pre-trained models and key data for this project are included in the `checkpoints_r2plus1d_sigmoid` folder  and  `checkpoints_r2plus1d_tanh` folder   for immediate use, or you can train and adjust them yourself.
 
