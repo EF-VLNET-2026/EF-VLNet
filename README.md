@@ -135,43 +135,5 @@ Pre-trained models and key data for this project are included in the `checkpoint
 ## References and Acknowledgments
 
 ```
-@article{xu2025lingshu,
-  title={Lingshu: A Generalist Foundation Model for Unified Multimodal Medical Understanding and Reasoning},
-  author={Xu, Weiwen and Chan, Hou Pong and Li, Long and Aljunied, Mahani and Yuan, Ruifeng and Wang, Jianyu and Xiao, Chenghao and Chen, Guizhen and Liu, Chaoqun and Li, Zhaodonghui and others},
-  journal={arXiv preprint arXiv:2506.07044},
-  year={2025}
-}
 
-@article{MedSAM2,
-    title={MedSAM2: Segment Anything in 3D Medical Images and Videos},
-    author={Ma, Jun and Yang, Zongxin and Kim, Sumin and Chen, Bihui and Baharoon, Mohammed and Fallahpour, Adibvafa and Asakereh, Reza and Lyu, Hongwei and Wang, Bo},
-    journal={arXiv preprint arXiv:2504.03600},
-    year={2025}
-}
-
-@inproceedings{SAM2,
-title={{SAM} 2: Segment Anything in Images and Videos},
-    author={Nikhila Ravi and Valentin Gabeur and Yuan-Ting Hu and Ronghang Hu and Chaitanya Ryali and Tengyu Ma and Haitham Khedr and Roman R{\"a}dle and Chloe Rolland and Laura Gustafson and Eric Mintun and Junting Pan and Kalyan Vasudev Alwala and Nicolas Carion and Chao-Yuan Wu and Ross Girshick and Piotr Dollar and Christoph Feichtenhofer},
-    booktitle={International Conference on Learning Representations},
-    year={2025}
-}
-
-@article{mo2025non,
-  title={A Non-Invasive Framework for Heart Function Assessment by Multi-Task Learning},
-  author={Mo, Haimiao and Liang, Juan and Li, Bing and Hu, Zhijian and Yi, Meng and Wu, Hongjia and Rong, Qian and Xu, Zeyuan},
-  journal={IEEE Transactions on Instrumentation and Measurement},
-  year={2025},
-  publisher={IEEE}
-}
-
-@article{lee2020biobert,
-  title={BioBERT: a pre-trained biomedical language representation model for biomedical text mining},
-  author={Lee, Jinhyuk and Yoon, Wonjin and Kim, Sungdong and Kim, Donghyeon and Kim, Sunkyu and So, Chan Ho and Kang, Jaewoo},
-  journal={Bioinformatics},
-  volume={36},
-  number={4},
-  pages={1234--1240},
-  year={2020},
-  publisher={Oxford University Press}
-}
 ```
