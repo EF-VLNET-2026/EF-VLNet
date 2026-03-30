@@ -129,7 +129,7 @@ Pre-trained models and key data for this project are included in the `checkpoint
 
 ##  Demo
 <video width="800" controls>
-  <source src="https://github.com/EF-VLNET-2026/EF-NLNet/raw/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4" type="video/mp4">
+  <source src="https://github.com/EF-VLNET-2026/EF-NLNet/raw/main/6057f41a84b57e9d5ea4c65d1ae9b690_raw.mp4" type="video/mp4">
 </video>
 
 
