@@ -127,14 +127,19 @@ Link: https://pan.baidu.com/s/1zaA5LEkOFm3tjMDKXQAv7w?pwd=momo Extraction code: 
 Pre-trained models and key data for this project are included in the `checkpoints_r2plus1d_sigmoid` folder  and  `checkpoints_r2plus1d_tanh` folder   for immediate use, or you can train and adjust them yourself.
 
 
-## 演示
+## Demo
 <video width="800" controls>
   <source src="https://raw.githubusercontent.com/EF-VLNET-2026/EF-VLNet/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4" type="video/mp4">
   你的浏览器不支持 HTML5 视频播放，请更新浏览器或下载视频查看。
 </video>
 
-**视频说明**：EF-VLNet 模型在心脏功能评估任务上的推理演示，展示多尺度视觉-语言融合的预测过程。
+**EF-VLNet**：
+To further illustrate the semantic alignment between visual features and clinical terms, we present a specific clinical case from the test set. The model’s semantic stream generates a structured diagnostic report from the extracted numerical features, as illustrated below:  
 
+
+\textbf{"0X10648BFB1458861.avi":} "\textit{The patient presents with structural and functional cardiac abnormalities. The specific manifestations are as follows: 1. Left ventricular dilation (EF), indicating a decline in left ventricular myocardial pump function. 2. Delayed anterior mitral leaflet motion with possible moderate-to-severe regurgitation, leading to increased blood reflux and aggravation of left ventricular load. 3. Presence of pulmonary hypertension, confirmed by elevated right heart pressure, which is associated with chronic congestive heart failure.}" 
+
+In this case, the visual stream captures chamber enlargement and abnormal leaflet motion, while the dynamic stream quantifies area change rates. These visual and kinematic patterns are aligned with clinical terms such as “left ventricular dilation”, “mitral regurgitation”, and “pulmonary hypertension” through the multi-head attention mechanism. This example explicitly illustrates how EF-VLNet bridges low-level visual dynamics and high-level clinical concepts, providing interpretable evidence for its inference process.
 
 ## Important Notes
 
