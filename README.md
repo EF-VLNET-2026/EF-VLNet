@@ -128,6 +128,7 @@ Pre-trained models and key data for this project are included in the `checkpoint
 
 
 ## Demo
+Click on the link to view the original echocardiogram video
 (https://github.com/EF-VLNET-2026/EF-VLNet/blob/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4)
 
 **EF-VLNet**：
