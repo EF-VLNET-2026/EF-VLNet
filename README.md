@@ -128,9 +128,7 @@ Pre-trained models and key data for this project are included in the `checkpoint
 
 
 ## Demo
-<video width="800" controls>
-  <source src="https://github.com/EF-VLNET-2026/EF-VLNet/blob/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4" type="video/mp4">
-</video>
+(https://github.com/EF-VLNET-2026/EF-VLNet/blob/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4)
 
 **EF-VLNet**：
 To further illustrate the semantic alignment between visual features and clinical terms, we present a specific clinical case from the test set. The model’s semantic stream generates a structured diagnostic report from the extracted numerical features, as illustrated below:  
