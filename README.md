@@ -127,10 +127,13 @@ Link: https://pan.baidu.com/s/1zaA5LEkOFm3tjMDKXQAv7w?pwd=momo Extraction code: 
 Pre-trained models and key data for this project are included in the `checkpoints_r2plus1d_sigmoid` folder  and  `checkpoints_r2plus1d_tanh` folder   for immediate use, or you can train and adjust them yourself.
 
 
-##  Demo
+## 演示
 <video width="800" controls>
-  <source src="https://github.com/EF-VLNET-2026/EF-NLNet/raw/main/6057f41a84b57e9d5ea4c65d1ae9b690_raw.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/EF-VLNET-2026/EF-VLNet/main/2f96c36aae7cd621fff9acad5d5bdaca.mp4" type="video/mp4">
+  你的浏览器不支持 HTML5 视频播放，请更新浏览器或下载视频查看。
 </video>
+
+**视频说明**：EF-VLNet 模型在心脏功能评估任务上的推理演示，展示多尺度视觉-语言融合的预测过程。
 
 
 ## Important Notes
