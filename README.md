@@ -126,6 +126,14 @@ Link: https://pan.baidu.com/s/1zaA5LEkOFm3tjMDKXQAv7w?pwd=momo Extraction code: 
 
 Pre-trained models and key data for this project are included in the `checkpoints_r2plus1d_sigmoid` folder  and  `checkpoints_r2plus1d_tanh` folder   for immediate use, or you can train and adjust them yourself.
 
+
+##  Demo
+<video width="800" controls>
+  <source src="demo_video.mp4" type="video/mp4">
+  你的浏览器不支持视频播放。
+</video>
+
+
 ## Important Notes
 
 - **Path Configuration**: Before use, please search for `/path/to/your/own/...` placeholders in the code and modify them to your local absolute paths.
