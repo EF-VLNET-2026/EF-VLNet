@@ -129,8 +129,7 @@ Pre-trained models and key data for this project are included in the `checkpoint
 
 ##  Demo
 <video width="800" controls>
-  <source src="demo_video.mp4" type="video/mp4">
-  你的浏览器不支持视频播放。
+  <source src="2f96c36aae7cd621fff9acad5d5bdaca.mp4" type="video/mp4">
 </video>
 
 
